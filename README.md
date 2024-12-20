@@ -35,7 +35,7 @@ Welcome to my GitHub! I’m a **Senior Software Engineer .NET** passionate about
 
 ## 📫 Get in Touch  
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ziedrebhi/)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ziedrebhi/)  
 - **Dev.to**: [Blog Dev.To](https://dev.to/zrebhi)
 - **Medium**: [Blog medium](https://ziedrebhi.medium.com/)  
 
